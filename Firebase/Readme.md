@@ -4,7 +4,7 @@
 
 - https://firebase.com/
 
-### Create Firebase Account
+### Retrieve Service Account
 
 - If you do not have a Firebase account, create one first.
 
@@ -22,6 +22,6 @@
 
 - Choose your database location and click done.
 
-### Create Firebase Account
+### Add Environment Variables
 
 - To securely access the API, we need to include the secret with each request.
